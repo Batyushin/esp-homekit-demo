@@ -1,4 +1,4 @@
-PROGRAM = led
+PROGRAM = relay_4ch
 
 EXTRA_COMPONENTS = \
 	extras/http-parser \
